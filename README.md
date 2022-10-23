@@ -10,3 +10,7 @@
           Návrh projektu je jeho. Kód je môj 😊. V Projekte som použil Vanilla
           JS a React - useState, useEffect, local storage a práca s forms.
         </p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0af9203b-3932-47b2-80af-474d1cfc1557/deploy-status)](https://app.netlify.com/sites/10react-project-shoppinglist/deploys)
+
+https://10react-project-shoppinglist.netlify.app/
